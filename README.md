@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @seqyuan
-- 👀 I’m interested in 3DGenome and single cell analysis
-- 🌱 I’m currently learning cancer metabolism
-- 💞️ I’m looking to collaborate on 3DGenome in cancer research
+- 👀 I’m interested in 3DGenome and single cell researches
 - 📫 How to reach me yfinddream@gmail.com
 
 <!---
