@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seqyuan
+- 👋 Hi, I’m @Zan Yuan
 - 👀 I’m interested in 3DGenome and single cell researches
 - 📫 How to contact me yfinddream@gmail.com
 - [ORCID](https://orcid.org/0000-0001-5582-5120 "0000-0001-5582-5120")
